@@ -1,0 +1,10 @@
+{
+  "name": "ErrorHandling",
+  "version": "0.0.0",
+  "description": "ErrorHandling",
+  "main": "server.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  }
+}

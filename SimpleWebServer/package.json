@@ -1,0 +1,10 @@
+{
+  "name": "SimpleWebServer",
+  "version": "0.0.0",
+  "description": "SimpleWebServer",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  }
+}

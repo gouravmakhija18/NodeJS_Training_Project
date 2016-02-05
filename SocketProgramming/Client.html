@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="/socket.io/socket.io.js"></script>
+    <title></title>
+    <script>
+        var socket;
+
+        function submitData() {
+            var data = document.getElementById('inputdata').value;
+            socket.emit('submit', data);
+        }
+
+        function Onload() {
+            socket = io.connect();
+            socket.on('timer', function (data) {
+                document.getElementById('timer').innerHTML = data;
+            });
+        }
+    </script>
+</head>
+<body onload="Onload()">
+
+    <h1> Sample Application to work with Sockets !</h1>
+    <form action="#">
+        <p>
+            Data : <input type="text" id="inputdata" />
+            <input type="button" onclick="submitData()" value="Submit" />
+        </p>
+    </form>
+    <p> Timer : <span id="timer"></span></p>
+
+
+
+</body>
+</html>

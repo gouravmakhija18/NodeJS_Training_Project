@@ -1,0 +1,13 @@
+{
+  "name": "UsingPromiseAPI",
+  "version": "0.0.0",
+  "description": "UsingPromiseAPI",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  },
+  "dependencies": {
+    "bluebird": "^3.2.1"
+  }
+}

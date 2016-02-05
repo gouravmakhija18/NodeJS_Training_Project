@@ -1,0 +1,10 @@
+{
+  "name": "UsingEventEmmitters",
+  "version": "0.0.0",
+  "description": "UsingEventEmmitters",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  }
+}

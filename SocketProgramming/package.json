@@ -1,0 +1,13 @@
+{
+  "name": "SocketProgramming",
+  "version": "0.0.0",
+  "description": "SocketProgramming",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  },
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ScalingNodeJS",
+  "version": "0.0.0",
+  "description": "ScalingNodeJS",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  }
+}

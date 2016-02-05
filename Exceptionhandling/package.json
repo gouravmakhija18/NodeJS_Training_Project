@@ -1,0 +1,10 @@
+{
+  "name": "Exceptionhandling",
+  "version": "0.0.0",
+  "description": "Exceptionhandling",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  }
+}

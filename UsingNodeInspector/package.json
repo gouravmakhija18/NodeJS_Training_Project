@@ -1,0 +1,10 @@
+{
+  "name": "UsingNodeInspector",
+  "version": "0.0.0",
+  "description": "UsingNodeInspector",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "UsingrequireJS",
+  "version": "0.0.0",
+  "description": "UsingrequireJS",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  },
+  "dependencies": {
+    "require": "^2.4.20",
+    "requirejs": "^2.1.22"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FileSystemUsingNode",
+  "version": "0.0.0",
+  "description": "FileSystemUsingNode",
+  "main": "app.js",
+  "author": {
+    "name": "achilles",
+    "email": ""
+  },
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
